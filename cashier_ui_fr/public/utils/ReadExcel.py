@@ -5,7 +5,7 @@
 import xlrd
 import os
 # 导入data的绝对路径
-from config.globalconfig import data_path
+from common.globalconfig import data_path
 class ReadExcel:
     #构造函数中已经找到对应的sheet
     def __init__(self,filename,sheetname):

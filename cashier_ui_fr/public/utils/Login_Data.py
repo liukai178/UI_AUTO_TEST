@@ -16,7 +16,7 @@ class Login_Data:
     def get_username():
         username = ReadExcel("Data.xlsx","Sheet1").read_excel(1,1)
         # print(username)
-        return int(username)
+        return username
 
     @staticmethod
     def get_code():
@@ -28,7 +28,12 @@ class Login_Data:
     def get_pwd():
         pwd = ReadExcel("Data.xlsx","Sheet1").read_excel(1,3)
         # print(pwd)
-        return int(pwd)
+        return pwd
+    @staticmethod
+    def get_login_success():
+        login_success = ReadExcel("Data.xlsx","Sheet1").read_excel(1,4)
+        return login_success
+
 
 if __name__ == '__main__':
     # 因为是静态方法，所以可以直接类.方法的形式来调用
@@ -36,3 +41,4 @@ if __name__ == '__main__':
     print(Login_Data.get_username())
     print(Login_Data.get_code())
     print(Login_Data.get_pwd())
+    print(Login_Data.get_login_success())

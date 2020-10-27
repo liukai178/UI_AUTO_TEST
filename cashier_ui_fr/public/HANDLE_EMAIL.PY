@@ -13,7 +13,7 @@ import smtplib
 from email.mime.text import MIMEText
 from email.mime.application import MIMEApplication
 from email.mime.multipart import MIMEMultipart
-from config.handleconfig import conf
+from common.handleconfig import conf
 
 
 def send_email(filename, title):
