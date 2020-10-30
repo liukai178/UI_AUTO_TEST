@@ -25,7 +25,7 @@ class Test_Browse_Goods(B):
     def tearDownClass(cls):
         B.sleep(3)
         B.goto_homeself()
-
+        B.quit()
     # def setUp(self):
     #     print("方法开始")
     #

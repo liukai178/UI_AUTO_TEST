@@ -39,7 +39,7 @@ class Add_Goods(B):
         #执行用例后返回首页
         B.sleep(3)
         B.goto_homeself()
-
+        B.quit()
     # def setUp(self):
     #     print("方法开始")
     #

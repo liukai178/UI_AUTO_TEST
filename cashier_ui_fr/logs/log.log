@@ -208,3 +208,269 @@ AssertionError
 2020-10-27 17:20:38,391 - [handlelog.py-->line:39] - INFO:调试一下下
 2020-10-27 17:21:21,482 - [handlelog.py-->line:39] - INFO:调试一下下
 2020-10-27 17:23:33,972 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-28 09:17:17,975 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-28 10:43:16,416 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-28 10:44:12,440 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-28 10:45:52,049 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-28 10:49:19,080 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-28 10:50:52,052 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-28 10:52:52,137 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-28 10:53:53,792 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-28 10:55:45,242 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-28 11:07:12,596 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-28 11:11:56,655 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-28 11:13:21,304 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-28 11:42:38,476 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-28 11:43:25,238 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-28 11:50:50,088 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-28 11:52:31,876 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-28 11:53:14,805 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-28 11:54:21,997 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-28 11:57:18,371 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-28 11:59:42,283 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-28 15:30:40,441 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-28 15:36:34,000 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-28 15:40:28,399 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-28 15:41:42,939 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-28 15:43:04,904 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-28 15:51:10,949 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-28 15:52:35,532 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-28 15:53:42,953 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-28 16:03:37,164 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-28 16:04:10,446 - [test_add_online_goods.py-->line:114] - ERROR:用例test01_add_online_goods执行不通过
+2020-10-28 16:04:10,446 - [test_add_online_goods.py-->line:116] - ERROR:
+Traceback (most recent call last):
+  File "F:\guoyou\U盘\Desktop\liukai\cashier_ui_fr\testcases\test_add_online_goods.py", line 111, in test01_add_online_goods
+    assert submit_text == "添加成功"
+AssertionError
+2020-10-28 16:05:37,567 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-28 16:07:56,111 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-28 16:08:57,038 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-28 16:09:31,970 - [test_add_online_goods.py-->line:115] - ERROR:用例test01_add_online_goods执行不通过
+2020-10-28 16:09:31,971 - [test_add_online_goods.py-->line:117] - ERROR:
+Traceback (most recent call last):
+  File "F:\guoyou\U盘\Desktop\liukai\cashier_ui_fr\testcases\test_add_online_goods.py", line 112, in test01_add_online_goods
+    assert submit_text == "添加成功"
+AssertionError
+2020-10-28 16:10:38,143 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-28 16:11:13,793 - [test_add_online_goods.py-->line:120] - INFO:用例test01_add_online_goods执行通过
+2020-10-29 10:04:07,161 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-29 10:06:07,755 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-29 10:09:22,019 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-29 10:12:57,955 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-29 10:13:50,250 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-29 10:16:56,026 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-29 10:17:40,150 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-29 10:19:01,941 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-29 10:22:16,234 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-29 10:23:09,803 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-29 10:34:39,544 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-29 10:34:50,515 - [test_login.py-->line:110] - INFO:用例test01_login执行通过
+2020-10-29 10:35:26,150 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-29 10:35:34,306 - [test_login.py-->line:111] - INFO:用例test01_login执行通过
+2020-10-29 10:38:47,255 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-29 10:39:33,146 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-29 10:42:36,914 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-29 10:44:20,053 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-29 10:48:34,380 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-29 11:08:27,097 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-29 11:20:18,817 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-29 11:21:05,420 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-29 11:21:45,077 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-29 11:23:18,637 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-29 11:24:01,704 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-29 11:24:43,259 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-29 11:29:49,219 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-29 11:30:46,808 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-29 11:49:05,288 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-29 11:50:05,197 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-29 11:51:35,895 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-29 11:53:00,306 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-29 12:00:36,348 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-29 12:01:46,095 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-29 12:03:11,136 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-29 12:07:09,039 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-29 12:12:18,480 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-29 12:12:58,245 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-29 12:13:37,977 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-29 13:32:03,159 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-29 13:45:58,344 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-29 13:46:40,539 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-29 14:10:22,194 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-29 14:12:12,209 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-29 14:13:06,362 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-29 14:44:16,042 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-29 14:46:04,366 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-29 14:46:56,244 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-29 14:47:42,440 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-29 14:48:31,389 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-29 14:50:53,005 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-29 14:52:23,558 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-29 14:55:02,133 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-29 14:57:37,436 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-29 14:57:39,412 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-29 14:59:29,225 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-29 15:02:43,049 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-29 15:03:57,229 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-29 15:09:28,433 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-29 15:11:50,001 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-29 15:25:37,509 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-29 15:26:00,483 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-29 15:26:49,405 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-29 15:28:42,422 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-29 15:31:31,486 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-29 15:32:05,840 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-29 15:32:39,962 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-29 15:33:14,080 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-29 15:34:30,041 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-29 15:38:17,785 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-29 15:40:35,239 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-29 15:44:04,247 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-29 15:44:40,135 - [test_add_online_goods.py-->line:120] - INFO:用例test01_add_online_goods执行通过
+2020-10-29 15:44:50,946 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-29 15:45:26,201 - [test_add_online_goods.py-->line:115] - ERROR:用例test01_add_online_goods执行不通过
+2020-10-29 15:45:26,201 - [test_add_online_goods.py-->line:117] - ERROR:
+Traceback (most recent call last):
+  File "F:\guoyou\U盘\Desktop\liukai\cashier_ui_fr\testcases\test_add_online_goods.py", line 112, in test01_add_online_goods
+    assert submit_text == "添加成功"
+AssertionError
+2020-10-29 15:47:51,636 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-29 15:48:27,521 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-29 15:49:02,930 - [test_add_online_goods.py-->line:120] - INFO:用例test01_add_online_goods执行通过
+2020-10-29 15:49:35,338 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-29 15:50:07,220 - [test_delete_online_goods.py-->line:94] - INFO:用例test01_delete_online_goods执行通过
+2020-10-29 17:33:45,883 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-29 17:34:25,211 - [test_add_online_goods.py-->line:120] - INFO:用例test01_add_online_goods执行通过
+2020-10-30 10:30:11,405 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-30 10:31:08,392 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-30 10:32:34,980 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-30 10:44:29,226 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-30 10:45:13,207 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-30 10:45:57,625 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-30 10:46:54,623 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-30 10:47:53,378 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-30 10:49:14,042 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-30 10:50:28,480 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-30 10:51:09,543 - [test_add_online_goods.py-->line:122] - INFO:用例test01_add_online_goods执行通过
+2020-10-30 10:52:08,184 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-30 10:52:51,116 - [test_add_online_goods.py-->line:117] - ERROR:用例test01_add_online_goods执行不通过
+2020-10-30 10:52:51,116 - [test_add_online_goods.py-->line:119] - ERROR:
+Traceback (most recent call last):
+  File "F:\guoyou\U盘\Desktop\liukai\cashier_ui_fr\testcases\test_add_online_goods.py", line 114, in test01_add_online_goods
+    assert submit_text == "添加成功"
+AssertionError
+2020-10-30 10:54:01,473 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-30 10:54:47,114 - [test_add_online_goods.py-->line:117] - ERROR:用例test01_add_online_goods执行不通过
+2020-10-30 10:54:47,114 - [test_add_online_goods.py-->line:119] - ERROR:
+Traceback (most recent call last):
+  File "F:\guoyou\U盘\Desktop\liukai\cashier_ui_fr\testcases\test_add_online_goods.py", line 114, in test01_add_online_goods
+    assert submit_text == "添加成功"
+AssertionError
+2020-10-30 10:58:42,098 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-30 10:59:55,298 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-30 11:01:18,886 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-30 11:03:10,599 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-30 11:03:58,469 - [test_add_online_goods.py-->line:122] - INFO:用例test01_add_online_goods执行通过
+2020-10-30 11:04:36,288 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-30 11:06:17,663 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-30 11:06:53,475 - [test_add_online_goods.py-->line:117] - ERROR:用例test01_add_online_goods执行不通过
+2020-10-30 11:06:53,476 - [test_add_online_goods.py-->line:119] - ERROR:
+Traceback (most recent call last):
+  File "F:\guoyou\U盘\Desktop\liukai\cashier_ui_fr\testcases\test_add_online_goods.py", line 114, in test01_add_online_goods
+    assert submit_text == "添加成功"
+AssertionError
+2020-10-30 11:29:06,709 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-30 11:29:42,427 - [test_add_online_goods.py-->line:117] - ERROR:用例test01_add_online_goods执行不通过
+2020-10-30 11:29:42,427 - [test_add_online_goods.py-->line:119] - ERROR:
+Traceback (most recent call last):
+  File "F:\guoyou\U盘\Desktop\liukai\cashier_ui_fr\testcases\test_add_online_goods.py", line 114, in test01_add_online_goods
+    assert submit_text == "添加成功"
+AssertionError
+2020-10-30 11:42:36,490 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-30 11:43:12,003 - [test_add_online_goods.py-->line:117] - ERROR:用例test01_add_online_goods执行不通过
+2020-10-30 11:43:12,003 - [test_add_online_goods.py-->line:119] - ERROR:
+Traceback (most recent call last):
+  File "F:\guoyou\U盘\Desktop\liukai\cashier_ui_fr\testcases\test_add_online_goods.py", line 114, in test01_add_online_goods
+    assert submit_text == "添加成功"
+AssertionError
+2020-10-30 11:45:02,269 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-30 11:45:37,788 - [test_add_online_goods.py-->line:117] - ERROR:用例test01_add_online_goods执行不通过
+2020-10-30 11:45:37,788 - [test_add_online_goods.py-->line:119] - ERROR:
+Traceback (most recent call last):
+  File "F:\guoyou\U盘\Desktop\liukai\cashier_ui_fr\testcases\test_add_online_goods.py", line 114, in test01_add_online_goods
+    assert submit_text == "添加成功"
+AssertionError
+2020-10-30 11:47:55,014 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-30 11:49:05,501 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-30 11:49:41,510 - [test_add_online_goods.py-->line:122] - INFO:用例test01_add_online_goods执行通过
+2020-10-30 11:52:57,653 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-30 11:53:33,469 - [test_add_online_goods.py-->line:117] - ERROR:用例test01_add_online_goods执行不通过
+2020-10-30 11:53:33,469 - [test_add_online_goods.py-->line:119] - ERROR:
+Traceback (most recent call last):
+  File "F:\guoyou\U盘\Desktop\liukai\cashier_ui_fr\testcases\test_add_online_goods.py", line 114, in test01_add_online_goods
+    assert submit_text == "添加成功"
+AssertionError
+2020-10-30 14:12:09,760 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-30 14:12:46,350 - [test_add_online_goods.py-->line:117] - ERROR:用例test01_add_online_goods执行不通过
+2020-10-30 14:12:46,350 - [test_add_online_goods.py-->line:119] - ERROR:
+Traceback (most recent call last):
+  File "F:\guoyou\U盘\Desktop\liukai\cashier_ui_fr\testcases\test_add_online_goods.py", line 114, in test01_add_online_goods
+    assert submit_text == "添加成功"
+AssertionError
+2020-10-30 14:13:31,376 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-30 14:14:08,156 - [test_add_online_goods.py-->line:117] - ERROR:用例test01_add_online_goods执行不通过
+2020-10-30 14:14:08,156 - [test_add_online_goods.py-->line:119] - ERROR:
+Traceback (most recent call last):
+  File "F:\guoyou\U盘\Desktop\liukai\cashier_ui_fr\testcases\test_add_online_goods.py", line 114, in test01_add_online_goods
+    assert submit_text == "添加成功"
+AssertionError
+2020-10-30 14:17:36,311 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-30 14:18:12,163 - [test_add_online_goods.py-->line:117] - ERROR:用例test01_add_online_goods执行不通过
+2020-10-30 14:18:12,163 - [test_add_online_goods.py-->line:119] - ERROR:
+Traceback (most recent call last):
+  File "F:\guoyou\U盘\Desktop\liukai\cashier_ui_fr\testcases\test_add_online_goods.py", line 114, in test01_add_online_goods
+    assert submit_text == "添加成功"
+AssertionError
+2020-10-30 14:18:36,634 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-30 14:19:13,009 - [test_add_online_goods.py-->line:117] - ERROR:用例test01_add_online_goods执行不通过
+2020-10-30 14:19:13,009 - [test_add_online_goods.py-->line:119] - ERROR:
+Traceback (most recent call last):
+  File "F:\guoyou\U盘\Desktop\liukai\cashier_ui_fr\testcases\test_add_online_goods.py", line 114, in test01_add_online_goods
+    assert submit_text == "添加成功"
+AssertionError
+2020-10-30 14:19:35,898 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-30 14:20:13,100 - [test_add_online_goods.py-->line:117] - ERROR:用例test01_add_online_goods执行不通过
+2020-10-30 14:20:13,100 - [test_add_online_goods.py-->line:119] - ERROR:
+Traceback (most recent call last):
+  File "F:\guoyou\U盘\Desktop\liukai\cashier_ui_fr\testcases\test_add_online_goods.py", line 114, in test01_add_online_goods
+    assert submit_text == "添加成功"
+AssertionError
+2020-10-30 14:20:51,054 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-30 14:21:28,849 - [test_add_online_goods.py-->line:117] - ERROR:用例test01_add_online_goods执行不通过
+2020-10-30 14:21:28,849 - [test_add_online_goods.py-->line:119] - ERROR:
+Traceback (most recent call last):
+  File "F:\guoyou\U盘\Desktop\liukai\cashier_ui_fr\testcases\test_add_online_goods.py", line 114, in test01_add_online_goods
+    assert submit_text == "添加成功"
+AssertionError
+2020-10-30 14:21:50,391 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-30 14:22:29,100 - [test_add_online_goods.py-->line:117] - ERROR:用例test01_add_online_goods执行不通过
+2020-10-30 14:22:29,100 - [test_add_online_goods.py-->line:119] - ERROR:
+Traceback (most recent call last):
+  File "F:\guoyou\U盘\Desktop\liukai\cashier_ui_fr\testcases\test_add_online_goods.py", line 114, in test01_add_online_goods
+    assert submit_text == "添加成功"
+AssertionError
+2020-10-30 14:30:01,988 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-30 14:30:38,965 - [test_add_online_goods.py-->line:117] - ERROR:用例test01_add_online_goods执行不通过
+2020-10-30 14:30:38,965 - [test_add_online_goods.py-->line:119] - ERROR:
+Traceback (most recent call last):
+  File "F:\guoyou\U盘\Desktop\liukai\cashier_ui_fr\testcases\test_add_online_goods.py", line 114, in test01_add_online_goods
+    assert submit_text == "添加成功"
+AssertionError
+2020-10-30 14:45:32,890 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-30 14:46:59,525 - [handlelog.py-->line:39] - INFO:调试一下下
+2020-10-30 14:47:35,175 - [test_add_online_goods.py-->line:117] - ERROR:用例test01_add_online_goods执行不通过
+2020-10-30 14:47:35,175 - [test_add_online_goods.py-->line:119] - ERROR:
+Traceback (most recent call last):
+  File "F:\guoyou\U盘\Desktop\liukai\cashier_ui_fr\testcases\test_add_online_goods.py", line 114, in test01_add_online_goods
+    assert submit_text == "添加成功"
+AssertionError

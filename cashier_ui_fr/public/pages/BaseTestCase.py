@@ -150,5 +150,17 @@ class BaseTestCase(unittest.TestCase):
     def scroll(cls):
         return cls.driver.execute_script('window.scrollBy(0,2000)')
 
+    #鼠标左键按住
+    @classmethod
+    def hold(cls,locator):
+        return ActionChains(cls.driver).click_and_hold(locator).perform()
 
-
+    @classmethod
+    def quit(cls):
+        return cls.driver.quit()
+    @classmethod
+    def alert(cls):
+        return cls.driver.switch_to.alert()
+    @classmethod
+    def refresh(cls):
+        return cls.driver.refresh()

@@ -35,6 +35,7 @@ class TestLogin(B):
         #每次跑完用例之后的清理工作，此处是回到首页
         B.sleep(3)
         B.goto_home()
+        B.quit()
 
     def test01_login(self):
         '''

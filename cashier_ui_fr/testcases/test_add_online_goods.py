@@ -10,6 +10,7 @@ from public.pages.Page_Element import Page_Element as P
 from common.handlelog import log
 from public.utils.Login_Data import Login_Data as login
 from common.login import Login as L
+from common.delete import test01_delete_online_goods
 #上传文件插件
 # import win32com.client
 # shell=win32com.client.Dispatch("WScript.Shell")
@@ -39,7 +40,8 @@ class Add_Online_Goods(B):
         #执行用例后返回首页
         B.sleep(3)
         B.goto_homeself()
-
+        test01_delete_online_goods()
+        B.quit()
     # def setUp(self):
     #     print("方法开始")
     #
@@ -70,11 +72,21 @@ class Add_Online_Goods(B):
         B.scroll()
         time.sleep(1)
         B.click(B.find_element(P.select_stuff))
+        time.sleep(2)
+        #先定位到原料下拉框（只定位到了下拉框的中间）
+        yuanliao = B.find_element(P.yuanliao)
+        B.click(yuanliao)
+        # stuff1 = yuanliao.find_element(P.stuff_1)
+        # B.click(stuff1)
         time.sleep(1)
-        #先定位到原料下拉框
-        yuanliao = B.find_elements(P.yuanliao)
-        stuff1 = yuanliao.find_elements(P.stuff_1)
-        print(stuff1)
+        yuanliao2 = B.find_element(P.yuanliao2)
+        B.click(yuanliao2)
+        # stuff_1_1 = B.find_element(P.stuff_1_1)
+        # B.click(stuff_1_1)
+        time.sleep(1)
+        B.click(B.find_element(P.yuanliao3))
+        # B.click(B.find_element(P.stuff_1_1_1))
+        B.click(B.find_element(P.submit_add_onlinegoods))
         # B.moveto(stuff1)
         # B.click(stuff1)
         # stuff2 = B.find_element(P.stuff_1_1)
@@ -95,16 +107,19 @@ class Add_Online_Goods(B):
         # time.sleep(1)
         # add_success_text = B.get_text(P.add_success)
         # print(add_success_text)
-        # try:
-        #     assert add_success_text == "添加成功"
-        # except Exception as e:
-        #     # raise NameError("当前页面不包含%s" % (login_sucees_text))
-        #     log.error('用例%s执行不通过'%(sys._getframe().f_code.co_name))
-        #     # # format格式化，把case中的title写入{}中
-        #     log.exception(e)
-        #     raise e
-        # else:
-        #     log.info('用例%s执行通过'%(sys._getframe().f_code.co_name))
-        #     # print("通过")
+        time.sleep(1)
+        submit_text = B.get_text(P.submit_online_alert)
+        print(submit_text)
+        try:
+            assert submit_text == "添加成功"
+        except Exception as e:
+            # raise NameError("当前页面不包含%s" % (login_sucees_text))
+            log.error('用例%s执行不通过'%(sys._getframe().f_code.co_name))
+            # # format格式化，把case中的title写入{}中
+            log.exception(e)
+            raise e
+        else:
+            log.info('用例%s执行通过'%(sys._getframe().f_code.co_name))
+            # print("通过")
 if __name__ == '__main__':
     unittest.main()
